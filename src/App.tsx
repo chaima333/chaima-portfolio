@@ -90,7 +90,7 @@ const academicProjects = [
       "MongoDB",
       "Express",
     ],
-    link: "",
+    link: "https://github.com/chaima333/Elearning1",
   },
 ];
 
