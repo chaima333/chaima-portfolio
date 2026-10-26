@@ -62,17 +62,18 @@ const freelanceProjects = [
   {
     number: "01",
     name: "Zahra Collection",
-    type: "FREELANCE · FASHION BRAND STOREFRONT",
+    type: "FREELANCE · E-COMMERCE · FULL STACK",
     description:
-      "High-performance digital storefront engineered for a fashion brand, highlighting collection showcases, product details, interactive UI components, mobile-first design, and SEO optimization.",
+      "Full-stack e-commerce application developed for a fashion brand, featuring a dynamic product catalog, color and size variants, stock management, persistent cart, complete checkout and order workflows, and a secure admin back-office.",
     stack: [
       "React",
       "TypeScript",
-      "Vite",
-      "Tailwind CSS",
-      "SEO",
+      "Node.js",
+      "Express",
+      "PostgreSQL",
+      "Prisma",
     ],
-    link: "",
+    link: "https://zahra-collection-one.vercel.app/",
   },
 ];
 
